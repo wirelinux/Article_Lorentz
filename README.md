@@ -1,11 +1,11 @@
 # Exploration of Poincaré Map in the Lorenz Attractor
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.xxxxxxx-blue.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19558280-blue.svg)](https://doi.org/10.5281/zenodo.19558280)]
 
 This repository contains the complete Python source code for the article:
 
 > Exploration of Poincaré Map in the Lorenz Attractor 
-> *Submitted for publication.*
+> Submitted for publication.
 
 The code implements an integrated computational framework for the analysis of the Lorenz system, including:
 
